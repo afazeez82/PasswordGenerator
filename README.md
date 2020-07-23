@@ -9,7 +9,7 @@ This is a simple random password generator
 
 ## The following example will generate a password with the following requirements
 
-Must contain at least a numbers
+Must contain at least some numbers
 
 Must contain at least an uppercase letters
 
